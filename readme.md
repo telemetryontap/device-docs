@@ -1,9 +1,13 @@
 # Device Documentation
 
-## Work In Progress
-
-We are currently in the process of updating and reorganizing our device documentation. Some sections may be incomplete or in flux as we work to improve the overall structure and content.
-
+## Device Documentation
 This section provides detailed information about the various Telemetry On Tap devices, including setup instructions, configuration options, and device parameters. Each device has its own dedicated page with comprehensive guides and troubleshooting tips.
+
+Device documentation is broken down into three categories:
+
+- [Devices](https://device.docs.telemetryontap.com/devices)
+- [Firmware](https://device.docs.telemetryontap.com/firmware)
+- [Hardware](https://device.docs.telemetryontap.com/hardware)
+
 
 We are working hard to migrate our documentation to a new format here. If you have any questions or need assistance, please reach out to our team.
