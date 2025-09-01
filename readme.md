@@ -1,6 +1,7 @@
 # Device Documentation
 
 ## Device Documentation
+
 This section provides detailed information about the various Telemetry On Tap devices, including setup instructions, configuration options, and device parameters. Each device has its own dedicated page with comprehensive guides and troubleshooting tips.
 
 Device documentation is broken down into three categories:
