@@ -6,9 +6,9 @@ This section provides detailed information about the various Telemetry On Tap de
 
 Device documentation is broken down into three categories:
 
-- [Devices](https://device.docs.telemetryontap.com/devices)
-- [Firmware](https://device.docs.telemetryontap.com/firmware)
-- [Hardware](https://device.docs.telemetryontap.com/hardware)
+- [Devices](https://device.docs.telemetryontap.com/devices/devices.md)
+- [Firmware](https://device.docs.telemetryontap.com/firmware/firmware.md)
+- [Hardware](https://device.docs.telemetryontap.com/hardware/hardware.md)
 
 
 We are working hard to migrate our documentation to a new format here. If you have any questions or need assistance, please reach out to our team.
