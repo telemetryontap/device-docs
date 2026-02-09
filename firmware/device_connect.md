@@ -29,9 +29,9 @@ GUID number after "ToT_NTap-"
 
 1. Enter the device password.
 
-![alt text](img/device_connect/image5.png)
+![alt text](img/device_connect/image4.png)
 
 1. Click connect. After a short delay, a browser window should open with the
 NTap interface. shown below:
 
-![alt text](img/device_connect/image4.png)
+![alt text](img/device_connect/image5.png)
